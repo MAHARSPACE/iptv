@@ -1,0 +1,23 @@
+[
+  {
+    "name": "1 Month",
+    "price": "$14",
+    "description": "Perfect to test premium IPTV quality with no commitment.",
+    "features": ["All Channels", "All Movies & Series", "4K Support", "Free Updates", "24/7 Support"],
+    "popular": false
+  },
+  {
+    "name": "3 Months",
+    "price": "$38",
+    "description": "Best-value starter plan for uninterrupted entertainment.",
+    "features": ["All Channels", "All Movies & Series", "4K Support", "Free Updates", "24/7 Support"],
+    "popular": true
+  },
+  {
+    "name": "12 Months",
+    "price": "$120",
+    "description": "Premium annual package for maximum savings.",
+    "features": ["All Channels", "All Movies & Series", "4K Support", "Free Updates", "24/7 Support"],
+    "popular": false
+  }
+]
